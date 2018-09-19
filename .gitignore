@@ -1,0 +1,12 @@
+# Python
+*.pyc
+
+# IntellIJ
+.idea/
+*.iml
+/out/
+
+# Package Files #
+*.jar
+*.war
+*.ear

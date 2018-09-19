@@ -1,0 +1,13 @@
+{
+  "BROWSER": "CH_GUI",
+  "#BROWSER": "CH_HEADLESS",
+
+  "E_MAIL": "andrei.talashka@gmail.com",
+  "PASSWORD": "password",
+  "USER_NAME": "Andrei Talashka",
+
+  "TEST": {
+    "ITERATIONS_NUM": 2,
+    "ADD_PER_ITERATION": 10
+  }
+}
